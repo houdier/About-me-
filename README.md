@@ -1,4 +1,5 @@
 ##Binary Search
+
 Binary search is a way to locate a element in a **sorted** sequence. Here is how it works. 
 
 Assume the sequence is strictly ascending. The middle element in the sequence separates the sequence into two subsequences —— the left 
